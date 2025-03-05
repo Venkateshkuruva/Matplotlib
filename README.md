@@ -1,0 +1,1 @@
+Matplotlib is a popular Python library used for creating static, interactive, and animated visualizations. It is widely used in data science, scientific computing, and machine learning to create high-quality plots and charts. Matplotlib provides a range of plotting options like line plots, bar charts, histograms, scatter plots, and more
